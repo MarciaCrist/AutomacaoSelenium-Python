@@ -2,7 +2,7 @@
 
 Automatização realizada através do Jupyter.
 
-Eu utilizei o Jupyter para realizar a automação da página da Google.
+Eu utilizei o Jupyter para realizar uma pequena automação da página da Google.
 
 Para realizar este teste eu utilizei 8 cenários de testes: 
 1º Acessar o Site https://www.google.com/
@@ -12,7 +12,7 @@ Para realizar este teste eu utilizei 8 cenários de testes:
 5º Retornando a parte principal da busca.
 6º Acessando ao Maps.
 7º Retonando a página e acessando a área de Login.
-8º Colocando o e-mail e retornando á página principal da busca.
+8º Preenchendo o campo de login com o e-mail.
 
 O site apresenta um bom tempo de resposta, com a interface intuitiva. 
 Possui fácil acesso a Imagens, Mapas, Vídeos.
